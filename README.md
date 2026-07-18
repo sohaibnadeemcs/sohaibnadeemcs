@@ -54,15 +54,15 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[LangGraph Research Agent](https://github.com/sohaibnadeemcs/langgraph-research-agent)** | Multi-step agentic AI that plans, searches, and synthesizes research answers with a 3-node graph (Planner → Search → Synthesizer) and automatic retry logic | Python, LangGraph, LangChain, Groq, Tavily, Streamlit |
-| **[AI Voice Agent Builder](https://github.com/sohaibnadeemcs/AI-Voice-Agent-Builder)** | Config-driven voice AI builder that turns a JSON business profile into a deployable AI phone receptionist — no code rebuild per client | Python, Retell AI |
-| **[AI Code Error Finder](https://github.com/sohaibnadeemcs/AI-Code-Error-Finder)** | Analyzes pasted code, finds errors with explanations, and returns fixed code across 7 languages | HTML, CSS, JS, Groq API |
-| **[AI Text Summarizer](https://github.com/sohaibnadeemcs/AI-Text-Summarizer)** | Summarizes any text into a structured overview, key points, and conclusion | HTML, CSS, JS, Groq API |
-| **[AI Image Generator](https://github.com/sohaibnadeemcs/Ai-Image-Generator)** | Generates images in 9 styles across 4 canvas sizes using Pollinations AI | HTML, CSS, JS, Pollinations API |
+| Project | Description | Tech Stack | Live Demo |
+|---|---|---|---|
+| **[LangGraph Research Agent](https://github.com/sohaibnadeemcs/langgraph-research-agent)** | Multi-step agentic AI that plans, searches, and synthesizes research answers with a 3-node graph (Planner → Search → Synthesizer) and automatic retry logic | Python, LangGraph, LangChain, Groq, Tavily, Streamlit | [Live](https://langgraph-research-agent-live.streamlit.app/) |
+| **[AI Voice Agent Builder](https://github.com/sohaibnadeemcs/AI-Voice-Agent-Builder)** | Config-driven voice AI builder that turns a JSON business profile into a deployable AI phone receptionist — no code rebuild per client | Python, Retell AI | — |
+| **[AI Code Error Finder](https://github.com/sohaibnadeemcs/AI-Code-Error-Finder)** | Analyzes pasted code, finds errors with explanations, and returns fixed code across 7 languages | HTML, CSS, JS, Groq API | [Live](https://ai-code-error-finder.vercel.app/) |
+| **[AI Text Summarizer](https://github.com/sohaibnadeemcs/AI-Text-Summarizer)** | Summarizes any text into a structured overview, key points, and conclusion | HTML, CSS, JS, Groq API | — |
+| **[AI Image Generator](https://github.com/sohaibnadeemcs/Ai-Image-Generator)** | Generates images in 9 styles across 4 canvas sizes using Pollinations AI | HTML, CSS, JS, Pollinations API | [Live](https://aiimagegenerator-neon.vercel.app/) |
 
-> 💡 Setup/run instructions are in each project's repo README. Live demo links will be added here as projects go live.
+> 💡 Setup/run instructions are in each project's repo README. More live demo links will be added as remaining projects are deployed.
 
 ---
 
